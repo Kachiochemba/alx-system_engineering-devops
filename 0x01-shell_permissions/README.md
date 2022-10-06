@@ -12,7 +12,7 @@
 11- add execute permissions to all directories
 12- make a directory with specific permissions
 13- change group owner for a file
-14- 
-15-
-16-
-17-
+14- change owner and group owner of
+15- change owner and group owner of a symbolic link
+16- change owner of a file if the file is owned by Guillaume 
+17- play starwars iv in terminal 
